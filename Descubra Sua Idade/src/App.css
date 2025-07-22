@@ -1,0 +1,31 @@
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+input {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin-top: 10px;
+  background-color: #3E5F44;
+  color: #fff;
+}
+
+.section-principal{
+  display: flex;
+  flex-direction: column;
+  background-color: #9ECAD6; 
+  padding: 20px 20px;
+  border-radius: 20px;
+}
+
+body{
+  background-color: #F0E4D3;
+}
+
